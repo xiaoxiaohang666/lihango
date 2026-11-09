@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiaoxiaohang666.github.io/lihango/sitemap-index.xml
